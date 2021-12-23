@@ -1,0 +1,23 @@
+{
+  "Errors": {},
+  "Status": true,
+  "Message": "string",
+  "Data": [
+    {
+      "GroupID": 0,
+      "ModuleID": 0,
+      "Active": 0,
+      "GroupName": "string",
+      "ModuleName": "string",
+      "SortNumber": 0,
+      "RN": 0,
+      "Remarks": "string",
+      "ID": 0,
+      "CreatedBy": "string",
+      "CreatedDate": "2021-12-21T12:26:00.470Z",
+      "ModifiedBy": "string",
+      "ModifiedDate": "2021-12-21T12:26:00.470Z"
+    }
+  ],
+  "TotalData": 0
+}
