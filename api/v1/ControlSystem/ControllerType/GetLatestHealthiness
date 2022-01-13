@@ -1,0 +1,121 @@
+{
+	  "Status": true,
+		"Message": "",
+		"Data": {
+		    "ListData": [
+				{
+					"ID": 1,
+					"FieldID": 7,
+					"ControllerType": "BLNK_MOS_CT",
+					"ControllerTypeName": "Belanak MOS",
+					"HealthinessScore": 99.85,
+					"HealthinessColor": "green"
+				},
+				{
+					"ID": 2,
+					"FieldID": 7,
+					"ControllerType": "BLNK_PSD_TRANS_CT",
+					"ControllerTypeName": "Belanak PSD Transmitter",
+					"HealthinessScore": 94.8,
+					"HealthinessColor": "green"
+				},
+				{
+					"ID": 3,
+					"FieldID": 7,
+					"ControllerType": "BLNK_PSD_CONT_CT",
+					"ControllerTypeName": "Belanak PSD Controller",
+					"HealthinessScore": 33.7,
+					"HealthinessColor": "yellow"
+				},
+				{
+					"ID": 4,
+					"FieldID": 7,
+					"ControllerType": "BLNK_FNG_DET_CT",
+					"ControllerTypeName": "Belanak F&G Detector",
+					"HealthinessScore": 97.17,
+					"HealthinessColor": "green"
+				},
+				{
+					"ID": 5,
+					"ControllerType": "BLNK_FNG_CONT_CT",
+					"ControllerTypeName": "Belanak F&G Controller",
+					"HealthinessScore": 91.6,
+					"HealthinessColor": "green"
+				},
+				{
+					"ID": 6,
+					"FieldID": 7,
+					"ControllerType": "BLNK_DCS_CONT_CT",
+					"ControllerTypeName": "Belanak DCS Controller",
+					"HealthinessScore": 0.0,
+					"HealthinessColor": "amber"
+				},
+				{
+					"ID": 7,
+					"FieldID": 8,
+					"ControllerType": "BLNK_PLC_CONT_CT",
+					"ControllerTypeName": "Belanak PLC Controller",
+					"HealthinessScore": 54.65,
+					"HealthinessColor": "yellow"
+				},
+				{
+					"ID": 8,
+					"FieldID": 8,
+					"ControllerType": "NB_MOS_CT",
+					"ControllerTypeName": "North Belut MOS",
+					"HealthinessScore": 100.0,
+					"HealthinessColor": "green"
+				},
+				{
+					"ID": 9,
+					"FieldID": 8,
+					"ControllerType": "NB_PSD_TRANS_CT",
+					"ControllerTypeName": "North Belut PSD Transmitter",
+					"HealthinessScore": 100.0,
+					"HealthinessColor": "green"
+				},
+				{
+					"ID": 10,
+					"FieldID": 8,
+					"ControllerType": "NB_PSD_CONT_CT",
+					"ControllerTypeName": "North Belut PSD Controller",
+					"HealthinessScore": 0.0,
+					"HealthinessColor": "amber"
+				},
+				{
+					"ID": 11,
+					"FieldID": 8,
+					"ControllerType": "NB_FNG_DET_CT",
+					"ControllerTypeName": "North Belut F&G Detector",
+					"HealthinessScore": 77.42,
+					"HealthinessColor": "yellow"
+				},
+				{
+					"ID": 12,
+					"FieldID": 8,
+					"ControllerType": "NB_FNG_CONT_CT",
+					"ControllerTypeName": "North Belut F&G Controller",
+					"HealthinessScore": 0.0,
+					"HealthinessColor": "amber"
+				},
+				{
+					"ID": 13,
+					"FieldID": 8,
+					"ControllerType": "NB_DCS_CONT_CT",
+					"ControllerTypeName": "North Belut DCS Controller",
+					"HealthinessScore": 0.0,
+					"HealthinessColor": "amber"
+				},
+				{
+					"ID": 14,
+					"FieldID": 8,
+					"ControllerType": "NB_PLC_CONT_CT",
+					"ControllerTypeName": "North Belut PLC Controller",
+					"HealthinessScore": 50.17,
+					"HealthinessColor": "yellow"
+				}
+			],
+	    	"TotalData": 14
+		},
+		"TotalData": 14
+	}
