@@ -1,0 +1,230 @@
+{
+			"Status": true,
+			"Message": "",
+			"Data": {
+		    "ListData": [
+			    {
+			      "ID": 1,
+			      "TimeStamp": "2020-09-22T10:33:08",
+			      "TagNo": "C20LI_0018_MOS.PV",
+			      "TagStatus": "NORMAL",
+			      "TagDescription": "C20LI_0018_MOS.PV",
+			      "Duration": 0,
+			      "FieldID": 8,
+			      "FieldName": "North Belut",
+			      "ControllerNo": "MOS NB"
+			    },
+			    {
+			      "ID": 2,
+			      "TimeStamp": "2020-09-22T10:33:08",
+			      "TagNo": "C20LI_0035_MOS.PV",
+			      "TagStatus": "NORMAL",
+			      "TagDescription": "C20LI_0035_MOS.PV",
+			      "Duration": 0,
+			      "FieldID": 8,
+			      "FieldName": "North Belut",
+			      "ControllerNo": "MOS NB"
+			    },
+			    {
+			      "ID": 3,
+			      "TimeStamp": "2020-09-22T10:33:08",
+			      "TagNo": "C20LI_2062_MOS.PV",
+			      "TagStatus": "NORMAL",
+			      "TagDescription": "C20LI_2062_MOS.PV",
+			      "Duration": 0,
+			      "FieldID": 8,
+			      "FieldName": "North Belut",
+			      "ControllerNo": "MOS NB"
+			    },
+			    {
+			      "ID": 4,
+			      "TimeStamp": "2020-09-22T10:33:08",
+			      "TagNo": "C20LI_3003_MOS.PV",
+			      "TagStatus": "NORMAL",
+			      "TagDescription": "C20LI_3003_MOS.PV",
+			      "Duration": 0,
+			      "FieldID": 8,
+			      "FieldName": "North Belut",
+			      "ControllerNo": "MOS NB"
+			    },
+			    {
+			      "ID": 5,
+			      "TimeStamp": "2020-09-22T10:33:08",
+			      "TagNo": "C32PI_1013_MOS.PV",
+			      "TagStatus": "NORMAL",
+			      "TagDescription": "C32PI_1013_MOS.PV",
+			      "Duration": 0,
+			      "FieldID": 8,
+			      "FieldName": "North Belut",
+			      "ControllerNo": "MOS NB"
+			    },
+			    {
+			      "ID": 6,
+			      "TimeStamp": "2020-09-22T10:33:08",
+			      "TagNo": "C62LI_0002A_MOS.PV",
+			      "TagStatus": "NORMAL",
+			      "TagDescription": "C62LI_0002A_MOS.PV",
+			      "Duration": 0,
+			      "FieldID": 8,
+			      "FieldName": "North Belut",
+			      "ControllerNo": "MOS NB"
+			    },
+			    {
+			      "ID": 7,
+			      "TimeStamp": "2020-09-22T10:33:08",
+			      "TagNo": "C62LI_0002B_MOS.PV",
+			      "TagStatus": "NORMAL",
+			      "TagDescription": "C62LI_0002B_MOS.PV",
+			      "Duration": 0,
+			      "FieldID": 8,
+			      "FieldName": "North Belut",
+			      "ControllerNo": "MOS NB"
+			    },
+			    {
+			      "ID": 8,
+			      "TimeStamp": "2020-09-22T10:33:08",
+			      "TagNo": "C62LI_0002C_MOS.PV",
+			      "TagStatus": "NORMAL",
+			      "TagDescription": "C62LI_0002C_MOS.PV",
+			      "Duration": 0,
+			      "FieldID": 8,
+			      "FieldName": "North Belut",
+			      "ControllerNo": "MOS NB"
+			    },
+			    {
+			      "ID": 9,
+			      "TimeStamp": "2020-09-22T10:33:08",
+			      "TagNo": "C67PI_4004A_MOS.PV",
+			      "TagStatus": "NORMAL",
+			      "TagDescription": "C67PI_4004A_MOS.PV",
+			      "Duration": 0,
+			      "FieldID": 8,
+			      "FieldName": "North Belut",
+			      "ControllerNo": "MOS NB"
+			    },
+			    {
+			      "ID": 10,
+			      "TimeStamp": "2020-09-22T10:33:08",
+			      "TagNo": "C67PI_4004B_MOS.PV",
+			      "TagStatus": "NORMAL",
+			      "TagDescription": "C67PI_4004B_MOS.PV",
+			      "Duration": 0,
+			      "FieldID": 8,
+			      "FieldName": "North Belut",
+			      "ControllerNo": "MOS NB"
+			    },
+			    {
+			      "ID": 11,
+			      "TimeStamp": "2020-09-22T10:33:08",
+			      "TagNo": "C67PI_4004C_MOS.PV",
+			      "TagStatus": "NORMAL",
+			      "TagDescription": "C67PI_4004C_MOS.PV",
+			      "Duration": 0,
+			      "FieldID": 8,
+			      "FieldName": "North Belut",
+			      "ControllerNo": "MOS NB"
+			    },
+			    {
+			      "ID": 12,
+			      "TimeStamp": "2020-09-22T10:33:08",
+			      "TagNo": "C70ALD_6011A_MOS.PV",
+			      "TagStatus": "NORMAL",
+			      "TagDescription": "C70ALD_6011A_MOS.PV",
+			      "Duration": 0,
+			      "FieldID": 8,
+			      "FieldName": "North Belut",
+			      "ControllerNo": "MOS NB"
+			    },
+			    {
+			      "ID": 13,
+			      "TimeStamp": "2020-09-22T10:33:08",
+			      "TagNo": "C70ALD_6011B_MOS.PV",
+			      "TagStatus": "NORMAL",
+			      "TagDescription": "C70ALD_6011B_MOS.PV",
+			      "Duration": 0,
+			      "FieldID": 8,
+			      "FieldName": "North Belut",
+			      "ControllerNo": "MOS NB"
+			    },
+			    {
+			      "ID": 14,
+			      "TimeStamp": "2020-09-22T10:33:08",
+			      "TagNo": "C70ALD_6011C_MOS.PV",
+			      "TagStatus": "NORMAL",
+			      "TagDescription": "C70ALD_6011C_MOS.PV",
+			      "Duration": 0,
+			      "FieldID": 8,
+			      "FieldName": "North Belut",
+			      "ControllerNo": "MOS NB"
+			    },
+			    {
+			      "ID": 15,
+			      "TimeStamp": "2020-09-22T10:33:08",
+			      "TagNo": "C70ALD_7011A_MOS.PV",
+			      "TagStatus": "NORMAL",
+			      "TagDescription": "C70ALD_7011A_MOS.PV",
+			      "Duration": 0,
+			      "FieldID": 8,
+			      "FieldName": "North Belut",
+			      "ControllerNo": "MOS NB"
+			    },
+			    {
+			      "ID": 16,
+			      "TimeStamp": "2020-09-22T10:33:08",
+			      "TagNo": "C70ALD_7011B_MOS.PV",
+			      "TagStatus": "NORMAL",
+			      "TagDescription": "C70ALD_7011B_MOS.PV",
+			      "Duration": 0,
+			      "FieldID": 8,
+			      "FieldName": "North Belut",
+			      "ControllerNo": "MOS NB"
+			    },
+			    {
+			      "ID": 17,
+			      "TimeStamp": "2020-09-22T10:33:08",
+			      "TagNo": "C70ALD_7011C_MOS.PV",
+			      "TagStatus": "NORMAL",
+			      "TagDescription": "C70ALD_7011C_MOS.PV",
+			      "Duration": 0,
+			      "FieldID": 8,
+			      "FieldName": "North Belut",
+			      "ControllerNo": "MOS NB"
+			    },
+			    {
+			      "ID": 18,
+			      "TimeStamp": "2020-09-22T10:33:08",
+			      "TagNo": "C70ALD_7021A_MOS.PV",
+			      "TagStatus": "NORMAL",
+			      "TagDescription": "C70ALD_7021A_MOS.PV",
+			      "Duration": 0,
+			      "FieldID": 8,
+			      "FieldName": "North Belut",
+			      "ControllerNo": "MOS NB"
+			    },
+			    {
+			      "ID": 19,
+			      "TimeStamp": "2020-09-22T10:33:08",
+			      "TagNo": "C70ALD_7021B_MOS.PV",
+			      "TagStatus": "NORMAL",
+			      "TagDescription": "C70ALD_7021B_MOS.PV",
+			      "Duration": 0,
+			      "FieldID": 8,
+			      "FieldName": "North Belut",
+			      "ControllerNo": "MOS NB"
+			    },
+			    {
+			      "ID": 20,
+			      "TimeStamp": "2020-09-22T10:33:08",
+			      "TagNo": "C70ALD_7022A_MOS.PV",
+			      "TagStatus": "NORMAL",
+			      "TagDescription": "C70ALD_7022A_MOS.PV",
+			      "Duration": 0,
+			      "FieldID": 8,
+			      "FieldName": "North Belut",
+			      "ControllerNo": "MOS NB"
+			    }
+				],
+		    "TotalData": 107
+			},
+			"TotalData": 2
+		}
