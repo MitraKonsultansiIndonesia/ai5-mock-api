@@ -1,0 +1,17 @@
+{
+	  "Errors": {},
+	  "Status": true,
+	  "Data": {
+  		"ID":1002,
+  		"EndDate":"2020-09-22T10:33:08",
+  		"FromTagStatus":"OK",
+  		"ModifiedBy":null,
+  		"ModifiedByName":null,
+  		"ModifiedDate":null,
+  		"Remarks": "Remark -> hanya ini yang bisa diupdate",
+  		"StartDate":"2020-09-22T10:33:08",
+  		"TagNo":"N74SID_3212L_MOS.PV",
+  		"ToTagStatus":"OK"
+  	},
+	  "TotalData": 1
+	}
