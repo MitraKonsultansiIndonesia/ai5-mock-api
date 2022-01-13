@@ -1,0 +1,380 @@
+{
+			"Status": true,
+			"Message": "",
+			"Data": {
+				"ListData": [
+				  {
+				    "RN": 1,
+				    "ID": 34,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "MOS NB",
+				    "ControllerNo": "MOS NB",
+				    "ControllerType": "NB_MOS_CT",
+				    "ControllerTypeName": "North Belut MOS"
+				  },
+				  {
+				    "RN": 2,
+				    "ID": 35,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "KPI_NB_FLT_PSD",
+				    "ControllerNo": "KPI_NB_FLT_PSD",
+				    "ControllerType": "NB_PSD_TRANS_CT",
+				    "ControllerTypeName": "North Belut PSD Transmitter"
+				  },
+				  {
+				    "RN": 3,
+				    "ID": 36,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "KPI_NB_FNG_DET",
+				    "ControllerNo": "KPI_NB_FNG_DET",
+				    "ControllerType": "NB_FNG_DET_CT",
+				    "ControllerTypeName": "North Belut F&G Detector"
+				  },
+				  {
+				    "RN": 4,
+				    "ID": 37,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "NPSD01",
+				    "ControllerNo": "NPSD01",
+				    "ControllerType": "NB_PSD_CONT_CT",
+				    "ControllerTypeName": "North Belut PSD Controller"
+				  },
+				  {
+				    "RN": 5,
+				    "ID": 38,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "NPSD02",
+				    "ControllerNo": "NPSD02",
+				    "ControllerType": "NB_PSD_CONT_CT",
+				    "ControllerTypeName": "North Belut PSD Controller"
+				  },
+				  {
+				    "RN": 6,
+				    "ID": 39,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "NPSD03",
+				    "ControllerNo": "NPSD03",
+				    "ControllerType": "NB_PSD_CONT_CT",
+				    "ControllerTypeName": "North Belut PSD Controller"
+				  },
+				  {
+				    "RN": 7,
+				    "ID": 40,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "NPSD04",
+				    "ControllerNo": "NPSD04",
+				    "ControllerType": "NB_PSD_CONT_CT",
+				    "ControllerTypeName": "North Belut PSD Controller"
+				  },
+				  {
+				    "RN": 8,
+				    "ID": 41,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "NPSD05",
+				    "ControllerNo": "NPSD05",
+				    "ControllerType": "NB_PSD_CONT_CT",
+				    "ControllerTypeName": "North Belut PSD Controller"
+				  },
+				  {
+				    "RN": 9,
+				    "ID": 42,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "NFGS01",
+				    "ControllerNo": "NFGS01",
+				    "ControllerType": "NB_FNG_CONT_CT",
+				    "ControllerTypeName": "North Belut F&G Controller"
+				  },
+				  {
+				    "RN": 10,
+				    "ID": 43,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "NFGS02",
+				    "ControllerNo": "NFGS02",
+				    "ControllerType": "NB_FNG_CONT_CT",
+				    "ControllerTypeName": "North Belut F&G Controller"
+				  },
+				  {
+				    "RN": 11,
+				    "ID": 44,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "NFGS03",
+				    "ControllerNo": "NFGS03",
+				    "ControllerType": "NB_FNG_CONT_CT",
+				    "ControllerTypeName": "North Belut F&G Controller"
+				  },
+				  {
+				    "RN": 12,
+				    "ID": 45,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "NFGS04",
+				    "ControllerNo": "NFGS04",
+				    "ControllerType": "NB_FNG_CONT_CT",
+				    "ControllerTypeName": "North Belut F&G Controller"
+				  },
+				  {
+				    "RN": 13,
+				    "ID": 46,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "NFGS05",
+				    "ControllerNo": "NFGS05",
+				    "ControllerType": "NB_FNG_CONT_CT",
+				    "ControllerTypeName": "North Belut F&G Controller"
+				  },
+				  {
+				    "RN": 14,
+				    "ID": 207,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "PLC-GEC-1",
+				    "ControllerNo": "PLC-GEC-1",
+				    "ControllerType": "NB_PLC_CONT_CT",
+				    "ControllerTypeName": "North Belut PLC Controller"
+				  },
+				  {
+				    "RN": 15,
+				    "ID": 208,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "PLC-GEC-2",
+				    "ControllerNo": "PLC-GEC-2",
+				    "ControllerType": "NB_PLC_CONT_CT",
+				    "ControllerTypeName": "North Belut PLC Controller"
+				  },
+				  {
+				    "RN": 16,
+				    "ID": 209,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "PLC-GEC-3",
+				    "ControllerNo": "PLC-GEC-3",
+				    "ControllerType": "NB_PLC_CONT_CT",
+				    "ControllerTypeName": "North Belut PLC Controller"
+				  },
+				  {
+				    "RN": 17,
+				    "ID": 210,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "PLC-GTG-A",
+				    "ControllerNo": "PLC-GTG-A",
+				    "ControllerType": "NB_PLC_CONT_CT",
+				    "ControllerTypeName": "North Belut PLC Controller"
+				  },
+				  {
+				    "RN": 18,
+				    "ID": 211,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "PLC-GTG-B",
+				    "ControllerNo": "PLC-GTG-B",
+				    "ControllerType": "NB_PLC_CONT_CT",
+				    "ControllerTypeName": "North Belut PLC Controller"
+				  },
+				  {
+				    "RN": 19,
+				    "ID": 212,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "PLC-GTG-C",
+				    "ControllerNo": "PLC-GTG-C",
+				    "ControllerType": "NB_PLC_CONT_CT",
+				    "ControllerTypeName": "North Belut PLC Controller"
+				  },
+				  {
+				    "RN": 20,
+				    "ID": 213,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "PLC-HVAC-LQ",
+				    "ControllerNo": "PLC-HVAC-LQ",
+				    "ControllerType": "NB_PLC_CONT_CT",
+				    "ControllerTypeName": "North Belut PLC Controller"
+				  },
+				  {
+				    "RN": 21,
+				    "ID": 214,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "PLC-HVAC-WHPC",
+				    "ControllerNo": "PLC-HVAC-WHPC",
+				    "ControllerType": "NB_PLC_CONT_CT",
+				    "ControllerTypeName": "North Belut PLC Controller"
+				  },
+				  {
+				    "RN": 22,
+				    "ID": 215,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "PLC-HVAC-WHPD",
+				    "ControllerNo": "PLC-HVAC-WHPD",
+				    "ControllerType": "NB_PLC_CONT_CT",
+				    "ControllerTypeName": "North Belut PLC Controller"
+				  },
+				  {
+				    "RN": 23,
+				    "ID": 216,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "PLC-WHPC-SAND",
+				    "ControllerNo": "PLC-WHPC-SAND",
+				    "ControllerType": "NB_PLC_CONT_CT",
+				    "ControllerTypeName": "North Belut PLC Controller"
+				  },
+				  {
+				    "RN": 24,
+				    "ID": 217,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "PLC-WHPD-SAND",
+				    "ControllerNo": "PLC-WHPD-SAND",
+				    "ControllerType": "NB_PLC_CONT_CT",
+				    "ControllerTypeName": "North Belut PLC Controller"
+				  },
+				  {
+				    "RN": 25,
+				    "ID": 218,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "PLC-CPP-EDG",
+				    "ControllerNo": "PLC-CPP-EDG",
+				    "ControllerType": "NB_PLC_CONT_CT",
+				    "ControllerTypeName": "North Belut PLC Controller"
+				  },
+				  {
+				    "RN": 26,
+				    "ID": 219,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "PLC-WHPC-EDG",
+				    "ControllerNo": "PLC-WHPC-EDG",
+				    "ControllerType": "NB_PLC_CONT_CT",
+				    "ControllerTypeName": "North Belut PLC Controller"
+				  },
+				  {
+				    "RN": 27,
+				    "ID": 220,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "PLC-CPP-IAC",
+				    "ControllerNo": "PLC-CPP-IAC",
+				    "ControllerType": "NB_PLC_CONT_CT",
+				    "ControllerTypeName": "North Belut PLC Controller"
+				  },
+				  {
+				    "RN": 28,
+				    "ID": 221,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "PLC-WHPC-IAC",
+				    "ControllerNo": "PLC-WHPC-IAC",
+				    "ControllerType": "NB_PLC_CONT_CT",
+				    "ControllerTypeName": "North Belut PLC Controller"
+				  },
+				  {
+				    "RN": 29,
+				    "ID": 222,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "PLC-CPP-CHILLERA",
+				    "ControllerNo": "PLC-CPP-CHILLERA",
+				    "ControllerType": "NB_PLC_CONT_CT",
+				    "ControllerTypeName": "North Belut PLC Controller"
+				  },
+				  {
+				    "RN": 30,
+				    "ID": 223,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "PLC-CPP-CHILLERB",
+				    "ControllerNo": "PLC-CPP-CHILLERB",
+				    "ControllerType": "NB_PLC_CONT_CT",
+				    "ControllerTypeName": "North Belut PLC Controller"
+				  },
+				  {
+				    "RN": 31,
+				    "ID": 224,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "Electrical Tag",
+				    "ControllerNo": "ELECTRICAL",
+				    "ControllerType": "",
+				    "ControllerTypeName": ""
+				  },
+				  {
+				    "RN": 32,
+				    "ID": 225,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "SUBSEA_ENHANCE",
+				    "ControllerNo": "SUBSEA_ENHANCE",
+				    "ControllerType": "",
+				    "ControllerTypeName": ""
+				  },
+				  {
+				    "RN": 33,
+				    "ID": 228,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "NBPCS02",
+				    "ControllerNo": "NBPCS02",
+				    "ControllerType": "NB_DCS_CONT_CT",
+				    "ControllerTypeName": "North Belut  DCS Controller"
+				  },
+				  {
+				    "RN": 34,
+				    "ID": 229,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "NBPCS03",
+				    "ControllerNo": "NBPCS03",
+				    "ControllerType": "NB_DCS_CONT_CT",
+				    "ControllerTypeName": "North Belut DCS Controller"
+				  },
+				  {
+				    "RN": 35,
+				    "ID": 230,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "NBPCS04",
+				    "ControllerNo": "NBPCS04",
+				    "ControllerType": "NB_DCS_CONT_CT",
+				    "ControllerTypeName": "North Belut DCS Controller"
+				  },
+				  {
+				    "RN": 36,
+				    "ID": 231,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "NBPCS05",
+				    "ControllerNo": "NBPCS05",
+				    "ControllerType": "NB_DCS_CONT_CT",
+				    "ControllerTypeName": "North Belut DCS Controller"
+				  },
+				  {
+				    "RN": 37,
+				    "ID": 232,
+				    "FieldID": 8,
+				    "FieldName": "North Belut",
+				    "ControllerDescription": "NBPCS06",
+				    "ControllerNo": "NBPCS06",
+				    "ControllerType": "NB_DCS_CONT_CT",
+				    "ControllerTypeName": "North Belut DCS Controller"
+				  }
+				],
+				"TotalData": 37
+			},
+			"TotalData": 37
+		}
