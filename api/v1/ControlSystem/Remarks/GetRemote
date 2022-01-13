@@ -1,0 +1,22 @@
+{
+		"Status": true,
+		"Message": "",
+		"Data": {
+	    "ListData": [
+	    	{
+	    		"ID":1002,
+	    		"EndDate":"2020-09-22T10:33:08",
+	    		"FromTagStatus":"OK",
+	    		"ModifiedBy":null,
+	    		"ModifiedByName":null,
+	    		"ModifiedDate":null,
+	    		"Remarks":null,
+	    		"StartDate":"2020-09-22T10:33:08",
+	    		"TagNo":"N74SID_3212L_MOS.PV",
+	    		"ToTagStatus":"OK"
+	    	}
+	    ],
+    	"TotalData": 1
+		},
+		"TotalData": 1
+	}
